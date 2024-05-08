@@ -74,10 +74,5 @@ Triggers are defined for enforcing business rules and data integrity constraints
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or additional features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to customize this README according to your specific requirements and preferences!
