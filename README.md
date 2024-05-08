@@ -73,6 +73,3 @@ Triggers are defined for enforcing business rules and data integrity constraints
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or additional features.
-
-
-Feel free to customize this README according to your specific requirements and preferences!
